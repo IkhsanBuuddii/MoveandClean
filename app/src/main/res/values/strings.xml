@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Move and Clean</string>
+    <string name="home_icon_description">Home Icon</string>
+    <string name="call_icon_description">Call Icon</string>
+    <string name="promo_banner_description">Promo Banner</string>
+    <string name="promo_discount">Diskon 50%</string>
+    <string name="promo_description">Untuk transaksi pertama!</string>
+    <string name="search_hint">Cari di sini!</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="filter_sort_icon_description">Filter/Sort Icon</string>
+    <string name="popular_services_title">Layanan Populer</string>
+    <string name="see_all">Lihat semua</string>
+    <string name="service_providers_title">Penyedia Layanan</string>
+</resources>
